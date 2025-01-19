@@ -1,0 +1,34 @@
+[
+    {
+        "id": "bgw-snake-twin-1",
+        "name": "Elder Snake Twin",
+        "edition": "bgw",
+        "team": "demon",
+        "image": "https://png.pngtree.com/png-clipart/20230412/ourmid/pngtree-green-snake-head-png-image_6704095.png",
+        "firstNight": 24,
+        "firstNightReminder": "Wake the Elder Snake Twin and show them their token. They then point to a player to become constricted.",
+        "otherNight": 23,
+        "otherNightReminder": "At the start of the night, shroud all currently constricted players. If it's an odd night and the Elder Snake Twin's turn to constrict, wake them and show them their token. They then point to a player to become constricted. Place the 'Elder Snake Twin Constricted' token on that player.",
+        "ability": "At the start of each night, all constricted players die. On each odd night, choose a player; they become constricted. [+Younger Snake Twin]",
+        "setup": true,
+        "reminders": [
+            "Constricted",
+            "Turn to constrict"
+        ]
+    },
+    {
+        "id": "bgw-snake-twin-2",
+        "name": "Younger Snake Twin",
+        "edition": "bgw",
+        "team": "demon",
+        "image": "https://png.pngtree.com/png-clipart/20210801/original/pngtree-snake-head-cartoon-png-image_6581775.jpg",
+        "otherNight": 24,
+        "otherNightReminder": "If it's an even night and the Younger Snake Twin's turn to constrict, wake them and show them their token. They then point to a player to become constricted. Place the 'Younger Snake Twin Constricted' token on that player.",
+        "ability": "At the start of each night, all constricted players die. On each even night, choose a player; they become constricted. [+Elder Snake Twin]",
+        "setup": true,
+        "reminders": [
+            "Constricted",
+            "Turn to constrict"
+        ]
+    }
+]

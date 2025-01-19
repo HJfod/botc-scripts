@@ -1,0 +1,17 @@
+[
+    {
+        "id": "bgw-executioner",
+        "name": "Executioner",
+        "edition": "bgw",
+        "team": "outsider",
+        "image": "https://cdn-icons-png.flaticon.com/512/7551/7551331.png",
+        "firstNight": 1,
+        "firstNightReminder": "Wake the Executioner and point to one Townsfolk player. Add the 'Known player' token on that player.",
+        "otherNight": 1,
+        "otherNightReminder": "If the Executioner's Known Player was executed the previous day, wake the Executioner and show them the 'You are now' token and a thumbs down.",
+        "reminders": [
+            "Known player"
+        ],
+        "ability": "You learn one townsfolk player. If they are executed, you become evil."
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": ["**/*.botc.json"],
+            "url": "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/main/script-schema.json"
+        }
+    ]
+}

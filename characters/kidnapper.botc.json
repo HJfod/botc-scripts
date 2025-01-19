@@ -1,0 +1,14 @@
+[
+    {
+        "id": "bgw-kidnapper",
+        "name": "Kidnapper",
+        "edition": "bgw",
+        "team": "minion",
+        "image": "https://images.vexels.com/content/143943/preview/evil-face-emoji-09209a.png",
+        "otherNight": 22,
+        "otherNightReminder": "Revive the Kidnapper's previous victim. Wake the Kidnapper and show them their token. They point to a player; add the 'Kidnapped' token on that player and shroud them.",
+        "ability": "Each night* you may choose a player; they die. They are revived the next night and regain their ability like it was their first night (even if you are dead). Executed players wont be revived.",
+        "setup": false,
+        "reminders": ["Kidnapped"]
+    }
+]
