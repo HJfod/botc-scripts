@@ -1,0 +1,13 @@
+[
+    {
+        "id": "bgw-prophet",
+        "name": "Prophet",
+        "edition": "bgw",
+        "team": "townsfolk",
+        "image": "https://wiki.bloodontheclocktower.com/images/9/97/Icon_fortuneteller.png",
+        "otherNight": 1,
+        "otherNightReminder": "If the Prophet received a buff that wakes them up at night, remember to take that into account.",
+        "reminders": ["Prophecy came true"],
+        "ability": "On your first day, make a prediction to the Storyteller about something that will happen later in the game. If you turn out to be correct, the Storyteller will award you a buff based on how impressive they think your prediction was."
+    }
+]

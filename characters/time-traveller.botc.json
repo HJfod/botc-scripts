@@ -1,0 +1,13 @@
+[
+    {
+        "id": "bgw-time-traveller",
+        "name": "Time Traveller",
+        "edition": "bgw",
+        "team": "townsfolk",
+        "image": "https://wiki.bloodontheclocktower.com/images/3/3d/Icon_clockmaker.png",
+        "otherNight": 100,
+        "otherNightReminder": "Wake the Time Traveller and ask them if they want to turn back time. If they answer yes, I hope you kept notes on what happened yesterday! Tomorrow morning will be the same as yesterday morning. You may announce this to the players in some way.",
+        "reminders": ["Ability used"],
+        "ability": "Once per game, at night*, you may roll back time by one day. [+1 Minion or +2 Outsiders]"
+    }
+]

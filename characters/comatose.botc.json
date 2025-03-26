@@ -1,0 +1,15 @@
+[
+    {
+        "id": "bgw-comatose",
+        "name": "Comatose",
+        "edition": "bgw",
+        "team": "outsider",
+        "image": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_pixie.png",
+        "firstNight": 101,
+        "firstNightReminder": "If the Comatose died today or tonight, do not go into morning; instead, run another night immediately. Any 'tomorrow morning' abilities activated on the first night will carry over into the next morning.",
+        "otherNight": 101,
+        "otherNightReminder": "If the Comatose died today or tonight, do not go into morning; instead, run another night immediately. Any 'tomorrow morning' abilities activated on the first night will carry over into the next morning.",
+        "reminders": ["Demon Killed"],
+        "ability": "If the Demon kills you or votes for your execution, tomorrow night will be immediately followed by a second night without a day inbetween."
+    }
+]
