@@ -14,6 +14,8 @@ const TEMPLATE = /* html */ `
             .list {
                 display: flex;
                 flex-direction: column;
+                align-items: center;
+                justify-content: center;
                 gap: 1rem;
             }
             button {
@@ -80,7 +82,7 @@ if (!existsSync("dist/")) {
 }
 writeFileSync("dist/index.html", TEMPLATE
     .replace(/INSERT_SCRIPT_BUTTONS_HERE/g, SCRIPTS_REPLACED.map((script, ix) => {
-        return /* html */ `<button id="script-${ix}">${script[0].name}</button>`;
+        return /* html */ `<button id="script-${ix}">${script[0].name} by ${script[0].author}</button>`;
     }).join(""))
     .replace(/INSERT_SCRIPT_LISTENERS_HERE/g, SCRIPTS_REPLACED.map((script, ix) => {
         return /* js */ `
