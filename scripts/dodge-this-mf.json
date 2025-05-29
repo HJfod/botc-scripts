@@ -1,0 +1,47 @@
+
+[
+{
+"id": "_meta",
+"author": "hjfod",
+"name": "Dodge this, m#&€@cker"
+},
+"amnesiac",
+"cannibal",
+"dreamer",
+"empath",
+"fool",
+"innkeeper",
+"monk",
+"pacifist",
+"professor",
+"sailor",
+"soldier",
+"tealady",
+"virgin",
+
+"drunk",
+"recluse",
+"saint",
+"zealot",
+
+"assassin",
+"devilsadvocate",
+"godfather",
+"poisoner",
+
+"alhadikhia",
+"shabaloth",
+"yaggababble",
+{
+"id": "bgw-nuclear-bomb",
+"name": "Thermonuclear flamethrower",
+"edition": "bgw",
+"team": "demon",
+"image": "https://wiki.bloodontheclocktower.com/images/2/20/Icon_boomdandy.png",
+"otherNight": 5,
+"otherNightReminder": "Kill every Townsfolk player that isn't protected by an ability.",
+"ability": "Each night*, every Townsfolk player that is not protected by some ability dies. [-1 Minion]",
+"setup": true,
+"reminders": ["Fuckin' blew up"]
+}
+]
