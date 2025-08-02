@@ -1,0 +1,13 @@
+[
+    {
+        "id": "bgw-truecultleader",
+        "name": "True Cult Leader",
+        "edition": "bgw",
+        "team": "demon",
+        "image": "https://wiki.bloodontheclocktower.com/images/a/a4/Icon_vizier.png",
+        "ability": "At the end of each day, all players are asked to choose Yes or No. Each player who chose differently from the Demon dies. If everyone chooses the same, evil wins.",
+        "otherNight": 10,
+        "otherNightReminder": "Kill all players marked as having chosen differently from the Demon, unless protected.",
+        "reminders": ["Chose Yes", "Chose No"]
+    }
+]
