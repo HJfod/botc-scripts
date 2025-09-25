@@ -7,7 +7,8 @@
         "image": "https://wiki.bloodontheclocktower.com/images/2/2d/Icon_riot.png",
         "otherNight": 22,
         "otherNightReminder": "Kill all players that disagreed with the Dictator",
-        "ability": "At the end of each day, all players are asked to choose Yes or No. Each player who disagrees with the Demon dies. If everyone agrees, evil wins.",
+        "ability": "At the end of each day, all players are publicly asked to choose Yes or No. Each player who disagrees with the Demon dies that night. If everyone agrees, evil wins.",
         "reminders": ["Chose Yes", "Chose No"]
     }
 ]
+
