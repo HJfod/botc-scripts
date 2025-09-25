@@ -6,9 +6,10 @@
         "team": "demon",
         "image": "https://raw.githubusercontent.com/HJfod/botc-scripts/e5188c66aedb5e2f6c4e5642b66d28e893330f13/images/false-god.png",
         "otherNight": 22,
-        "otherNightReminder": "Choose a player; they die.",
-        "ability": "You are a second fake Storyteller. All players are poisoned when interacting with you. If the real Storyteller is executed, Evil wins. Each night*, choose a player; they die.",
+        "otherNightReminder": "Choose a player; they die. Inform the real Storyteller of your choice.",
+        "ability": "You are a second, fake Storyteller. All players are poisoned when interacting with you. If the real Storyteller is executed, evil wins. Each night*, choose a player; they die.",
         "setup": true,
         "reminders": []
     }
 ]
+
